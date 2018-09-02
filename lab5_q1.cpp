@@ -15,7 +15,7 @@ int main(){
 		cout <<"The number "<<a1<<"is greater than"<<a2<<endl;
 
 	}
-	else(a1 < a2);{
+	else{
 		cout <<"The number "<<a1<<" is less than "<<a2<<endl;
 
 	}
